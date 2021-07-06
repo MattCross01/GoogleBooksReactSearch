@@ -31,24 +31,24 @@ form .form-group input {
 
 form .btn {
     border-radius: 0 24px 24px 0;
-    background-color: #F4B400;
-    border-color: #F4B400;
+    background-color: #f45900;
+    border-color: #f45900;
 }
 
 form .btn i {
     margin: 0 1em;
-    background-color: #F4B400;
+    background-color: #f45900;
 }
 
 .btn-success {
-    background-color: #F4B400;
-    border-color: #F4B400;
+    background-color: #f45900;
+    border-color: #f45900;
     color: #454545;
 }
 
 .btn-success:hover {
-    background-color: #F4B400;
-    border-color: #F4B400;
+    background-color: #f45900;
+    border-color: #f45900;
     color: white;
 }
 
