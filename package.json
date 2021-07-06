@@ -23,6 +23,7 @@
     "manifest": "^0.1.4",
     "mongoose": "^5.13.2",
     "nodemon": "^2.0.9",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^4.0.3",
+    "yarn": "^1.22.10"
   }
 }
