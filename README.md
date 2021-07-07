@@ -2,7 +2,7 @@
 
 A React-based Google Books Search application.
 
-Try the application out [Here]()!
+Try the application out [Here](https://reactbooksgooglesearch.herokuapp.com/)!
 
 - Users can search for books via the Google Books API. They have the option to _View_ a book on the Google Books page, or _Save_ a book to the Mongo backend.
 - Users can also view all of their saved books, with options to _View_ the book at the Google Books site, or to _Delete_ the book from the backend.
@@ -11,11 +11,11 @@ Try the application out [Here]()!
 
 Homepage:
 
-[!Screenshot](https://i.ibb.co/V2GyBDL/homepage1.png)
+![Screenshot](https://i.ibb.co/V2GyBDL/homepage1.png)
 
 Saved Books Page:
 
-[!Screenshot](https://i.ibb.co/3szvTXm/saved.png)
+![Screenshot](https://i.ibb.co/3szvTXm/saved.png)
 
 # Technologies Used
 
