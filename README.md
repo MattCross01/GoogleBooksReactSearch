@@ -7,6 +7,10 @@ Try the application out [Here](https://reactbooksgooglesearch.herokuapp.com/)!
 - Users can search for books via the Google Books API. They have the option to _View_ a book on the Google Books page, or _Save_ a book to the Mongo backend.
 - Users can also view all of their saved books, with options to _View_ the book at the Google Books site, or to _Delete_ the book from the backend.
 
+# Installation 
+
+To use this application, the user can fork or clone. Then run npm install. See the technologies section for the application dependencies. Then to run this application locally, then type npm run start.
+
 # Screenshots 
 
 Homepage:
