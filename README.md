@@ -9,7 +9,7 @@ Try the application out [Here](https://reactbooksgooglesearch.herokuapp.com/)!
 
 # Installation 
 
-To use this application, the user can fork or clone. Then run npm install. See the technologies section for the application dependencies. Then to run this application locally, then type npm run start.
+ To use this application, the user can fork or clone.  Then run `npm install`. See the technologies section for the application dependencies.  Then to run this application locally, then type `npm run start`.  
 
 # Screenshots 
 
